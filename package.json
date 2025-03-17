@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ViktorSvertoka/goit-node-cli#readme",
+  "bugs": {
+    "url": "https://github.com/ViktorSvertoka/goit-node-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorSvertoka/goit-node-cli.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cli-table3": "^0.6.5",
+    "commander": "^13.1.0",
+    "nodemon": "^3.1.9"
+  }
+}

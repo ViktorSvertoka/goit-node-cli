@@ -1,0 +1,62 @@
+[
+  {
+    "id": "A4b6C7d1230456789",
+    "name": "Jim Morrison",
+    "email": "jimmorrison@doors.com",
+    "phone": "(123) 456-7890"
+  },
+  {
+    "id": "F5r8E9D1948093846",
+    "name": "Freddie Mercury",
+    "email": "freddie@queen.com",
+    "phone": "(234) 567-8901"
+  },
+  {
+    "id": "J8I9M374192847365",
+    "name": "Jimi Hendrix",
+    "email": "jimi@hendrix.com",
+    "phone": "(345) 678-9012"
+  },
+  {
+    "id": "K7U9R284750183627",
+    "name": "Kurt Cobain",
+    "email": "kurt@nirvana.com",
+    "phone": "(456) 789-0123"
+  },
+  {
+    "id": "M6I9C920734517028",
+    "name": "Mick Jagger",
+    "email": "mick@rollingstones.com",
+    "phone": "(567) 890-1234"
+  },
+  {
+    "id": "R8O2B473658902187",
+    "name": "Robert Plant",
+    "email": "robert@ledzeppelin.com",
+    "phone": "(678) 901-2345"
+  },
+  {
+    "id": "S6T4E9V9128364050",
+    "name": "Steven Tyler",
+    "email": "steven@aerosmith.com",
+    "phone": "(789) 012-3456"
+  },
+  {
+    "id": "D9A1V485672081537",
+    "name": "David Bowie",
+    "email": "david@bowie.com",
+    "phone": "(890) 123-4567"
+  },
+  {
+    "id": "L8E1M297834650128",
+    "name": "Lemmy Kilmister",
+    "email": "lemmy@motörhead.com",
+    "phone": "(901) 234-5678"
+  },
+  {
+    "id": "O2Z3Z984675192083",
+    "name": "Ozzy Osbourne",
+    "email": "ozzy@black-sabbath.com",
+    "phone": "(012) 345-6789"
+  }
+]
